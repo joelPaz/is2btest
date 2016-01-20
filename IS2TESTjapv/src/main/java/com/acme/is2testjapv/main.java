@@ -10,7 +10,10 @@ package com.acme.is2testjapv;
  * @author LAB203
  */
 public class main {
-    public void Sludo(){
+    public void Saludo(){
+    
+    }
+    public void Despedida(){
     
     }
     
